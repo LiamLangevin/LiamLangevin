@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LiamLangevin
 - 👀 I’m interested in code, theater, creations
 - 🌱 I’m currently learning how to code a website
-- 💞️ I’m looking to collaborate on some projects
+- 💞️ I’m looking to collaborate on some projects, and upgrade coding
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Where's bananas ?
 
